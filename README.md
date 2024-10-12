@@ -1,1 +1,1 @@
-# baekjun_A
+# baekjun_스터디
